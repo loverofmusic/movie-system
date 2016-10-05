@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/loverofmusic/movie-system#readme",
   "dependencies": {
+    "bower": "^1.7.9",
     "express": "^4.14.0",
     "jade": "^1.11.0",
     "moment": "^2.15.1",
